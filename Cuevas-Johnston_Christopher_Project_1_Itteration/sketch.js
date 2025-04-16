@@ -1,3 +1,5 @@
+//Iterations will be noted with a "//( )" as a way to seperate from seperating my inital seperations 
+
 function setup() {
   createCanvas(800, 600);
 
@@ -7,25 +9,34 @@ function draw() {
   background(222, 184, 135);
   
 //Consistent Colors
+//(Added new Button function for color)
 let Zelda = color(50, 205, 50);
 let Hyrule = color(255, 228, 181);  
+let Button = color(220, 20, 60);
 
-//Base
+
+//(Modified to inlcude Shadow and move Base, while modifying size to curve object more)
 noStroke();
+//Shadow
 fill(0, 85);  
-rect(180, 180, 500, 300, 80);
+rect(180, 180, 500, 300, 150);
+//Base
 fill(Zelda);  
-rect(150, 150, 500, 300, 80);
+rect(150, 150, 500, 300, 150);
 fill(Hyrule);  
-rect(160, 160, 480, 280, 70);
+rect(160, 160, 480, 280, 140);
 
 //Screen Area  
-push(); 
-fill(Hyrule);  
-stroke(189, 183, 107);
+//(Adjusted rect functions to curve more)
+push();
+stroke(Zelda);
 strokeWeight(5);
-rect(275, 175, 250, 250,50);  
-pop();  
+rect(295, 225, 210, 150, 200)
+//(Added "noStroke")
+noStroke();
+fill(169);
+rect(295, 225, 210, 150, 255);
+pop(); 
 
 //Screen
 push();
@@ -62,58 +73,63 @@ pop();
 push();
 stroke(Zelda);
 strokeWeight(15);
-line(545, 340, 624, 340); 
-line(545, 180, 572, 180);
-line(545, 210, 572, 210);
-line(545, 240, 572, 240);
+//(Made Lines to be adjusted)
+line(540, 325, 619, 325); 
+line(540, 195, 567, 195);
+line(540, 225, 567, 225);
+line(540, 255, 567, 255);
   
 stroke(127);
 strokeWeight(10);
-line(545, 340, 572, 340);
-line(597, 340, 624, 340);
-line(545, 180, 572, 180);
-line(545, 210, 572, 210);
-line(545, 240, 572, 240);
+//(Modified lines to be adjusted)
+line(540, 325, 567, 325);
+line(592, 325, 619, 325);
+line(540, 195, 567, 195);
+line(540, 225, 567, 225);
+line(540, 255, 567, 255);
 pop();
   
 //A & B 
 push();
 fill(Zelda);
-circle(610, 378, 40);
-circle(560, 378, 40);
-fill(220, 20, 60);
-circle(610, 378, 35);
-circle(560, 378, 35);
+//(Modified Circles to be adjusted)
+circle(600, 358, 40);
+circle(550, 358, 40);
+fill(Button);
+circle(600, 358, 35);
+circle(550, 358, 35);
 pop();
-  
+   
 //DPAD
 push();
 translate(0, 10);    
 stroke(Zelda);
 strokeWeight(25);
-line(220, 333, 220, 383);
-line(195, 358, 245, 358);
+line(220, 328, 220, 378);
+line(195, 355, 245, 355);
 stroke(0);
 strokeWeight(20); 
-line(220, 333, 220, 383);
-line(195, 358, 245, 358);
+line(220, 328, 220, 378);
+line(195, 353, 245, 353);
 pop(); 
   
 //Text Box
+//(Moddified Text Box to be positioned Lower)
 push();
 fill(255);
 stroke(0);
 strokeWeight(2);
-rect(190, 190, 60, 60, 20);
+rect(190, 210, 60, 60, 20);
 pop();
   
 // Text
+//(Moddified Text C and J to be positioned Higher)
 push();
 fill(0);
 textFont('Georgia')
 textSize(40);
-text('C', 205, 228);
-text('J', 208, 243);
+text('C', 205, 248);
+text('J', 208, 263);
 pop();
 
 push();
