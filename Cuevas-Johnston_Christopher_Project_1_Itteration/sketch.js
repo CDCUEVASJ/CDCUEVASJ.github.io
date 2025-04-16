@@ -98,6 +98,10 @@ circle(550, 358, 40);
 fill(Button);
 circle(600, 358, 35);
 circle(550, 358, 35);
+//(Added New circles)
+fill(255, 90, 0);
+circle(608, 353, 15);
+circle(558, 353, 15);
 pop();
    
 //DPAD
