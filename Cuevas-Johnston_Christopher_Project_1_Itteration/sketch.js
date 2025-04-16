@@ -39,12 +39,15 @@ rect(295, 225, 210, 150, 255);
 pop(); 
 
 //Screen
+//(Adjusted rect functions to curve more)
 push();
 stroke(Zelda);
 strokeWeight(5);
-rect(300, 225, 200, 150, 20);
+rect(295, 225, 210, 150, 200)
+//(Added "noStroke")
+noStroke();
 fill(169);
-rect(300, 225, 200, 150);
+rect(295, 225, 210, 150, 255);
 pop(); 
 
 //Screen Image  
