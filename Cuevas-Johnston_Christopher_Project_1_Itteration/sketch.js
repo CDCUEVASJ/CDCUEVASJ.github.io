@@ -27,16 +27,13 @@ fill(Hyrule);
 rect(160, 160, 480, 280, 140);
 
 //Screen Area  
-//(Adjusted rect functions to curve more)
-push();
-stroke(Zelda);
+//(Adjusted Rect shape to become more circular)
+push(); 
+fill(Hyrule);  
+stroke(189, 183, 107);
 strokeWeight(5);
-rect(295, 225, 210, 150, 200)
-//(Added "noStroke")
-noStroke();
-fill(169);
-rect(295, 225, 210, 150, 255);
-pop(); 
+rect(280, 180, 240, 240,200);  
+pop();  
 
 //Screen
 //(Adjusted rect functions to curve more)
