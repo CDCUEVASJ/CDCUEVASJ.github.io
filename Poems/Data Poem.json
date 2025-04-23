@@ -1,0 +1,39 @@
+{
+    "Welcome": {
+    "Glad you can make it": {
+        "How are you feeling?": [
+                "Could be better",
+                "Exhausted",
+                "Stressed",
+                "Not well",
+                "null"
+        ],
+        "Any reason why?": "no..."
+    },
+    "I see": {
+        "Any progress you made from last time?": [
+            "Yes",
+            "No"
+        ],
+        "Okay,": {
+            "Any thing else you want to mention?": "Not that I am aware of",
+            "Are you certain?": "...Yes?",
+            "If you say so.": "I do"
+        }
+    },
+    "Is there anything you feel like you can improve at?": {
+        "Like any habbits you want to break out of?": {
+            "Or anything you want to learn?": {
+                "Hmmmm": {
+                    "Would you rather have some time to think about areas you want to look at?": "Yes"
+                }
+            }
+        }
+    },
+    "See you next Visit": "Thank you"
+},
+"Sources": [
+    "Invisble Man Data Poem by Davis O'Shea",
+    "Code Poem (Found in Github assignment) by Christopher Cuevas-Johnston"
+]
+}

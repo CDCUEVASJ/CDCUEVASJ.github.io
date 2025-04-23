@@ -1,0 +1,14 @@
+IF User is registered; THEN
+    Check on emotional and mental stability
+IF emotional stability is unstable; THEN
+    Identify stability abnormality
+    Encourage seeking out therapy and provide resources to do so
+        IF User agrees to engage in Therapy; THEN
+            REPEAT
+                Activate/Run Therapy.exe
+            UNTIL User Leaves
+    Else restart process
+Else attempt to find user
+
+Notes: The project title was called Uknown Inner Demons for CT-11, this is
+provided strictly to explain my idea for the Data Poem
