@@ -29,3 +29,6 @@ Project Proposal
     The most notable work my project would aim to reference is TouHou Luna Nights, a Fan-made Project that is a Spin off of the Touhou franchise, due to it being the main example of Bullet Hell Platformers.
 
 6 - If sketches/diagrams/prototypes help communicate the project better than typing out a description, feel free to include and refer to them.
+
+    Added inside the Github folder, I added a photo of a visual I have in mind, Perhaps It could be more refined and is in no way represenative of the final project. 
+    Link to the inage: https://github.com/CDCUEVASJ/CDCUEVASJ.github.io/blob/main/Final_Prepwork/Propasal%20Sketch%20idea.png
