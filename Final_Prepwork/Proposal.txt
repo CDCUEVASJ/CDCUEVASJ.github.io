@@ -1,0 +1,31 @@
+Project Proposal
+
+1 - What you're going to make, what format it will be in and how it will be shown to the class and/or published.
+
+    My plan is to make a Video Game, specifically a genre blending between Bullet Hell, a genre that is intended to overwhelm the players with "bullets" to avoid, and a 2D platformer.
+    The tool I plan on using is Godot, as I can rely on a wider range of resources. 
+    The plan on showing it through the means of allowing the group to play the project itself through the Github page, or showing the game play myself through the Github page. 
+
+2 - To the extent possible, break the project into steps. How long do you think each step will take; what do you need to learn/figure out to complete this step?
+
+    So the major game play elements would be more difficult as I would have to learn how to program randomized elements, projectile and damage function, and 2D platformer movement
+    This could take some more time and diving into the resources avalible for Godot as This is something I am new to using, I would use my prior project, Unfamilair app as a Starting point.
+    Getting the Main challenge done, I would have to play test, which could be done over a week, since the task isnt as intesnive to ask people to try something and get feedback from a user experience. 
+    Polishing would also take up a week, since There should be a presentation element to this, any final touches or visual flares. 
+
+3 - Tools and methodologies you intend to use (you don't need to know all of these in advance). For the primary technology involved, what resources can you turn to for help? What communities exist for the tool/project??
+
+    My primary tool would be Godot, as it is the tool that got my mind intrested in this type of project. 
+    Godot has plenty of resources, ranging from a Documentation page to a guide in learning GDScript from the knowing nothing. Godot has many means of communicationg with others, such as Discord, Reddit and their own Forum. 
+    As for external items, I do plan on sketching any original Visual assets in Affinity Photo 2, sound on the otherhand is something i would have to use from external sources. 
+
+4 - How will you be documenting your process? Git commit messages? A handwritten diary? screenshots with journal entries? And so on…
+
+    While I will be commiting to Git Commit messaging, I have considered the direction of a Devlog, a format where a developer breaks down what they are doing, roadblocks, what they done to work around the issues, and such,
+    I do not plan on editing the video in a similar manner, instead leaning towards a Train of thought, showing what I have as I am recording, giving my impressions, stretch goals, and the like,
+
+5 - What's this about? What's the concept behind it? What other work or ideas does it reference? What other makers or specific works do you see this as being in conversation with?
+
+    The most notable work my project would aim to reference is TouHou Luna Nights, a Fan-made Project that is a Spin off of the Touhou franchise, due to it being the main example of Bullet Hell Platformers.
+
+6 - If sketches/diagrams/prototypes help communicate the project better than typing out a description, feel free to include and refer to them.
