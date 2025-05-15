@@ -1,0 +1,8 @@
+5/15/2025
+
+Based on the conversation on developing the project, The recommendation i was given was learning how to make a bullet pattern.
+That is the first major challenge, as prior usage of Godot I used was relating to player Movement.
+
+First thing I deceided to do was to research the subject. That lead me to World Eater Games' HowTo: Draw a metric Ton of Bullets in Godot (https://worldeater-dev.itch.io/bittersweet-birthday/devlog/210789/howto-drawing-a-metric-ton-of-bullets-in-godot)
+The team are devleoping a game thats realeasing this year, Bittersweet Birthday, as their game involves similar elements to what I want to do. As this is the first step, getting items to spawn from the center would work well for the starting point.
+They display imagery to show what context is nessecary espeacilly for a beginner. 
