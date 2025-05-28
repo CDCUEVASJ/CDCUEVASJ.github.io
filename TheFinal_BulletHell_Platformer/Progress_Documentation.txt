@@ -9,3 +9,13 @@ They display imagery to show what context is nessecary espeacilly for a beginner
 I am starting a fresh project as I feel that would be the best way to handle this, as I feel this would take me down a rabbit hole of learning new information realting to how the Node section of Godot works, as this seems to heavily rely on that function and its something I dont nessecaritly understand.
 
 As of Writing this, I haven't done a Video breaking down my research portion of this project
+
+
+
+
+5/27/25
+
+I stated working with a plug-in for GODOT, PerfBullets (https://github.com/Moonzel/Godot-PerfBullets)
+
+I hoped it would be something to lead me in the right direction. I was going down the page trying to follow the basics. As of right now, I cant get my game page to launch properly, possibly due to something that I either overlooked or didnt consider. 
+Right now My main Goal is to get the "Bullets" to spawn in, as that seems to be more difficult than the player movement. Hopefully I can get something running soon. 
