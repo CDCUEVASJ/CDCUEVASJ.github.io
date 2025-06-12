@@ -19,3 +19,7 @@ I stated working with a plug-in for GODOT, PerfBullets (https://github.com/Moonz
 
 I hoped it would be something to lead me in the right direction. I was going down the page trying to follow the basics. As of right now, I cant get my game page to launch properly, possibly due to something that I either overlooked or didnt consider. 
 Right now My main Goal is to get the "Bullets" to spawn in, as that seems to be more difficult than the player movement. Hopefully I can get something running soon. 
+
+6/12/25
+
+I managed to get the Addon working, just an issue of too many versions of the addon overlapping, So now I needed to do Walls, which as far as I can tell may conflict with how the addon works The Player does seem different from how I previously programed such a thing, leading me to to belive the answer to my problem lies in there. This is a project that I think was too ambitious for my first use of Godot. Perhaps I should try something less complex as a learning experience, but its good to activly learn more about the program itself as I was using it. I even discovered that the documentation information can be accessed inside the project, as shown in my video. 
